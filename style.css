@@ -1,0 +1,354 @@
+/* Section 1 */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Navbar */
+
+.NavBar {}
+
+.NavBar img {
+    width: 180px;
+    float: left;
+    padding: 15px 0px 15px 50px;
+}
+
+.NavBar ul {
+    list-style: none;
+    margin-right: 60px;
+}
+
+.NavBar ul li {
+    float: right;
+    margin: 30px 15px;
+}
+
+.NavBar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+/* End Navbar */
+
+/* Clear-Fix */
+
+.clear-fix {
+    clear: both;
+}
+
+header {
+    height: 100vh;
+    width: 100%;
+    background-image: url(images1/drew-coffman-1872.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.content {
+    padding-top: 200px;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
+.content h1 {
+    font-size: 76px;
+    font-family: 'Alegreya', serif;
+    margin: 0px 0px 18px;
+}
+
+.p1 {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.p2 {
+    font-size: 24px;
+    margin: 30px 0px;
+}
+
+.btn {
+    padding: 15px 28px;
+    border-radius: 7px;
+    font-size: 17px;
+}
+
+.btn1 {
+    background-color: #8E7754;
+    border: solid 2px transparent;
+    margin-right: 10px;
+}
+
+.btn2 {
+    background-color: transparent;
+    border: solid 2px white;
+}
+
+.btn a {
+    text-decoration: none;
+    color: white;
+}
+
+/*  End Section 1 */
+
+/* Section 2 */
+
+.describion {
+    margin: 100px 60px;
+}
+
+.describion img {
+    width: 45%;
+    margin-right: 30px;
+    float: left;
+}
+
+.describion_content {
+    width: 45%;
+    margin-top: 25px;
+    margin-left: 50px;
+    float: left;
+}
+
+.describion_content h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.describion_content p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+.describion_content ul {
+    font-size: 20px;
+    line-height: 40px;
+    list-style: none;
+}
+
+
+.describion_content ul li img {
+    width: 7%;
+    border-radius: 50%;
+}
+
+/* End Section 2 */
+
+/* Section 3 */
+
+.section_3 {
+    background-color: #f8f8f8;
+}
+
+.section_3 img {
+    width: 40%;
+    margin-right: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    float: right;
+}
+
+.section_3_content {
+    width: 45%;
+    margin-top: 100px;
+    margin-right: 60px;
+    float: right;
+}
+
+.section_3_content h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.p_one {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+.p_two {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+/* End section_3 */
+
+/* section_4 */
+
+.section_4 {
+    margin-left: 25px;
+}
+
+.section_4 h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section_4 p {
+    font-size: 17px;
+    margin-bottom: 30px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.section_4_content {
+    width: 30%;
+    float: left;
+    margin: 15px 15px;
+}
+
+.section_4_content img {
+    width: 100%;
+}
+
+.section_4 h3 {
+    font-size: 22px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* End section_4 */
+
+/* section_5 */
+
+.section_5 {
+    background-color: #f8f8f8;
+    padding: 100px 65px;
+}
+
+.map {
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+
+.map iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.section_5_content {
+    width: 50%;
+    float: left;
+}
+
+.section_5 h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.section_5 p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 35px;
+}
+
+.section_5 ul {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 45px;
+    list-style: none;
+}
+
+.section_5_content img {
+    width: 7%;
+    padding-right: 15px;
+}
+
+/* End section_5 */
+
+/* section_6 */
+
+.section_6 {
+    background-color: #8E7754;
+}
+
+.section_6_div1 {
+    background-color: #403D38;
+    color: #969696;
+    width: 100%;
+    padding: 30px;
+}
+
+.section_6 h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color: white;
+}
+
+.section_6 p {
+    font-size: 17px;
+    margin-bottom: 30px;
+    line-height: 25px;
+}
+
+.section_6 li {
+    font-size: 17px;
+    margin-bottom: 20px;
+    line-height: 20px;
+    list-style: none;
+    padding: 5px;
+}
+
+.section_6 li a {
+    color: #969696;
+    text-decoration-line: none;
+}
+
+
+.section_6_d1_1 {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.section_6_d1_2 {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.section_6_d1_3 {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.section_6_d1_4 {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.section_6_d1_4 img {
+    width: 10%;
+    padding-right: 10px;
+}
+
+.section_6_div2 {
+    background-color: #353330;
+    color: #797979;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.section_6_div2 img {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.section_6_div2 a img {
+    width: 5%;
+}
+
+/* End section_6 */
